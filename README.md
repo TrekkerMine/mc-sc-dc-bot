@@ -1,3 +1,3 @@
-###Instructions will go here soon
+### Instructions will go here soon
 
-#Bot is in development
+# Bot is in development
